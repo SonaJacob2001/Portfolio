@@ -1,0 +1,15 @@
+.home{
+    display: flex;
+    justify-content: space-around;
+}
+
+.image{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
